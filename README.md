@@ -26,4 +26,4 @@ MIT
 
 ## Author Information
 
-Opsta (Thailand) Co., Tld.
+Opsta (Thailand) Co., Ltd.
